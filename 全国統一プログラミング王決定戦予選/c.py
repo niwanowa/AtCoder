@@ -8,9 +8,6 @@ for _ in range(n):
 ab.sort(reverse=True)
 print(sum(ab[::2]) - sum(b))
 
-
-
-
 # 記念
 # from operator import itemgetter
 # n = int(input())
